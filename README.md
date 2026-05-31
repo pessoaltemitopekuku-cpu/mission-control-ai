@@ -1,4 +1,3 @@
-Markdown
 # 🚀 Mission Control AI - Sistema Inteligente de Monitoramento Espacial
 
 <p align="center">

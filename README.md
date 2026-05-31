@@ -1,7 +1,3 @@
-Aqui está uma proposta de README.md completa, extremamente organizada, elegante e formatada utilizando as melhores práticas do GitHub Markdown.
-
-Você pode copiar o código abaixo e colar diretamente no arquivo README.md do seu repositório.
-
 Markdown
 # 🚀 Mission Control AI - Sistema Inteligente de Monitoramento Espacial
 
